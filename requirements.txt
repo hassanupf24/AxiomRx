@@ -1,0 +1,7 @@
+PyQt6==6.7.0
+opencv-python-headless
+pytesseract
+thefuzz[speedup]
+xgboost
+pandas
+numpy
